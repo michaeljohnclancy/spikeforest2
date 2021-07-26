@@ -1,5 +1,7 @@
 # SpikeForest (v2)
 
+This is a temporary fork which uses the new versions of Kachery in the background.
+
 This project contains the processing pipelines needed to reproduce the benchmarking results presented on the [spikeforest website](https://spikeforest.flatironinstitute.org).
 
 Our bioRxiv preprint: [SpikeForest: reproducible web-facing ground-truth validation of automated neural spike sorters](https://www.biorxiv.org/content/10.1101/2020.01.14.900688v1)
